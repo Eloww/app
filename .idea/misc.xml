@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/app/src/main/res/drawable/ic_baseline_4k_24.xml" value="0.1735" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/colorme/src/main/res/layout/activity_main.xml" value="0.30277777777777776" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/colorme/src/main/res/layout/fragment_blue.xml" value="0.30277777777777776" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/colorme/src/main/res/layout/fragment_green.xml" value="0.30277777777777776" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/colorme/src/main/res/layout/fragment_orange.xml" value="0.30277777777777776" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/colorme/src/main/res/layout/fragment_pink.xml" value="0.30277777777777776" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/colorme/src/main/res/layout/fragment_red.xml" value="0.30277777777777776" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/colorme/src/main/res/layout/fragment_white.xml" value="0.30277777777777776" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/colorme/src/main/res/layout/fragment_yellow.xml" value="0.30277777777777776" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/generator/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/mod10rvclimat/src/main/res/layout/activity_main.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/mod10rvclimat/src/main/res/layout/item_list_clim.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/mod2ihm2/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/mod2ihmsimple/src/main/res/layout/activity_main.xml" value="0.24909420289855072" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/mod4databinding/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/mod4findviewbyid/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/mod6intent/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/mod6intentimpl/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/mod7logcat/src/main/res/layout/activity_main.xml" value="0.31296296296296294" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/mod8viewmodel/src/main/res/drawable/ic_launcher_background.xml" value="0.1895" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/mod8viewmodel/src/main/res/layout/activity_main.xml" value="0.31296296296296294" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/mod9magasinroom/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/mod9tp/src/main/res/layout/activity_main.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/mod9tp/src/main/res/layout/fragment_voiture.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/modsafeargs/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/modsafeargs/src/main/res/layout/fragment_form.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/modsafeargs/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/navigation/src/main/res/layout/activity_main.xml" value="0.2537037037037037" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/navigation/src/main/res/layout/fragment_home.xml" value="0.2537037037037037" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/navigation/src/main/res/layout/fragment_sign_in.xml" value="0.2537037037037037" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/nemoubliepas/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/nemoubliepas/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/nemoubliepas/src/main/res/layout/homefragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/tp1/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/tpcustom/src/main/res/layout/activity_main.xml" value="0.31296296296296294" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/tpde/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1895" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/tpde/src/main/res/layout/activity_main.xml" value="0.31296296296296294" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/tpprogrammation/src/main/res/layout/activity_main.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/tpprogrammation/src/main/res/layout/item_list_prog.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/tpracontemoi/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/tpracontemoi/src/main/res/layout/fragment_form.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/tpracontemoi/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vdenale2021/AndroidStudioProjects/app/vraioufaux/src/main/res/layout/activity_main.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

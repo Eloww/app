@@ -1,0 +1,38 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "app"
+include ':app'
+include ':mod2ihmsimple'
+include ':mod2ihm2'
+include ':tp1'
+include ':mod4findviewbyid'
+include ':generator'
+include ':mod4databinding'
+include ':vraioufaux'
+include ':navigation'
+include ':colorme'
+include ':modsafeargs'
+include ':tpracontemoi'
+include ':mod6intent'
+include ':mod6intentimpl'
+include ':nemoubliepas'
+include ':mod7logcat'
+include ':mod8viewmodel'
+include ':tpde'
+include ':tpcustom'
+include ':mod9magasinroom'
+include ':mod9tp'
+include ':mod10rvclimat'
+include ':tpprogrammation'

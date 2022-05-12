@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/colorme" />
+            <option value="$PROJECT_DIR$/generator" />
+            <option value="$PROJECT_DIR$/mod10rvclimat" />
+            <option value="$PROJECT_DIR$/mod2ihm2" />
+            <option value="$PROJECT_DIR$/mod2ihmsimple" />
+            <option value="$PROJECT_DIR$/mod4databinding" />
+            <option value="$PROJECT_DIR$/mod4findviewbyid" />
+            <option value="$PROJECT_DIR$/mod6intent" />
+            <option value="$PROJECT_DIR$/mod6intentimpl" />
+            <option value="$PROJECT_DIR$/mod7logcat" />
+            <option value="$PROJECT_DIR$/mod8viewmodel" />
+            <option value="$PROJECT_DIR$/mod9magasinroom" />
+            <option value="$PROJECT_DIR$/mod9tp" />
+            <option value="$PROJECT_DIR$/modsafeargs" />
+            <option value="$PROJECT_DIR$/navigation" />
+            <option value="$PROJECT_DIR$/nemoubliepas" />
+            <option value="$PROJECT_DIR$/tp1" />
+            <option value="$PROJECT_DIR$/tpcustom" />
+            <option value="$PROJECT_DIR$/tpde" />
+            <option value="$PROJECT_DIR$/tpprogrammation" />
+            <option value="$PROJECT_DIR$/tpracontemoi" />
+            <option value="$PROJECT_DIR$/vraioufaux" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
